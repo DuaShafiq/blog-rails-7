@@ -1,0 +1,17 @@
+current directory: /home/dua/Projects/rails_7/blog_7/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+/home/dua/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/dua/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 -r ./siteconf20220201-22712-jeja2q.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/dua/Projects/rails_7/blog_7/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/dua/Projects/rails_7/blog_7/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/dua/Projects/rails_7/blog_7/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -m 0755 cparse.so ./.gem.20220201-22712-vai9oo/racc

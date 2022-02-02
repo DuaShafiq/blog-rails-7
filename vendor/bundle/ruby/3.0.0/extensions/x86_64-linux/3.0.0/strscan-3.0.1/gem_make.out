@@ -1,0 +1,16 @@
+current directory: /home/dua/Projects/rails_7/blog_7/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+/home/dua/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/dua/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 -r ./siteconf20220201-22712-43l5jp.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /home/dua/Projects/rails_7/blog_7/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+make DESTDIR\= clean
+
+current directory: /home/dua/Projects/rails_7/blog_7/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+make DESTDIR\=
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/dua/Projects/rails_7/blog_7/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.1/ext/strscan
+make DESTDIR\= install
+/usr/bin/install -m 0755 strscan.so ./.gem.20220201-22712-zrhc0l
